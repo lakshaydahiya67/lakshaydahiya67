@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Lakshay%20Dahiya&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Security%20Focused&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Lakshay&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Security%20Focused&descAlignY=51&descAlign=50)
 
 </div>
 
@@ -56,7 +56,7 @@ Full-stack chat application with **real-time messaging**, **webhook data ingesti
 ---
 
 ### 🤖 Binance Trading Bot
-[![Trading Bot](https://img.shields.io/badge/Trading%20Bot-Python%20CLI-gold?style=for-the-badge&logo=bitcoin)](https://github.com/lakshaydahiya67/Binance-Futures-Orders-Bot)
+[![Trading Bot](https://img.shields.io/badge/Trading%20Bot-Python%20CLI-gold?style=for-the-badge&logo=bitcoin)](https://github.com/lakshay67/Binance-Futures-Orders-Bot)
 
 *Python • Binance API • Trading Algorithms • CLI*
 
