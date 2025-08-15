@@ -1,74 +1,172 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9hCsO6hlK6Ci/giphy.gif" width="100"/>
-</div>
+<div align="center">
 
-<div id="badges" align="center">
-<a href="[YOUR_LINKEDIN_URL]">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:lakshaydahiya67@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Lakshay%20Dahiya&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Security%20Focused&descAlignY=51&descAlign=50)
 
-<h1 align="center">
-Hey there
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=lakshaydahiya67&style=flat-square&color=blue" alt=""/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Secure+%26+Scalable+Web+Applications;AI-Powered+Solutions+%26+Trading+Systems;From+Concept+to+Production+Deployment)](https://git.io/typing-svg)
+
 </div>
 
-:man_technologist: About Me :
-I am a Full-Stack Python Developer with a deep passion for building robust, scalable, and intelligent web applications from the ground up. I specialize in using Django and FastAPI to create secure, feature-rich systems and have a keen interest in integrating AI/ML, real-time features, and financial technology into my projects.
+---
 
-🔭 I’m currently working on enhancing my project management platform with more advanced analytics.
+## 🚀 About Me
 
-🌱 I’m currently learning more about microservices architecture and advanced DevOps practices.
+> **Full-Stack Developer** passionate about creating **secure**, **scalable**, and **intelligent** web applications. I specialize in building end-to-end solutions from **AI-powered recommendations** to **financial trading systems**.
 
-💬 Ask me about Python, Django, FastAPI, DRF, Docker, or REST API design.
+- 🔐 **Security First**: Building applications with encryption, role-based access control, and secure file handling
+- 🤖 **AI Integration**: Implementing machine learning for recommendations and document analysis
+- 📊 **FinTech Experience**: Developing trading bots and financial data visualization systems
+- 🌐 **Full-Stack Expertise**: From React frontends to Django/FastAPI backends with cloud deployment
+- 🚀 **Performance Optimization**: Using Cython, caching, and efficient algorithms for scalable solutions
 
-📫 How to reach me: lakshaydahiya67@gmail.com
+<br>
 
-:hammer_and_wrench: Languages and Tools :
-<div>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,docker,git" />
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,gunicorn,nginx,redis" />
-<img src="https://skillicons.dev/icons?i=pycharm,vscode,postman,linux,githubactions,vercel,aws" />
+## 💼 Featured Projects
+
+<div align="center">
+
+### 🔐 SecureShare - AI-Powered File Sharing Platform
+[![SecureShare](https://img.shields.io/badge/SecureShare-Live%20Demo-brightgreen?style=for-the-badge&logo=django)](https://secureshare-2cc7.onrender.com/)
+
+*Django • Gemini AI • Encryption • Email Verification*
+
+Enterprise-grade secure file sharing with **AI document summarization**, **single-use encrypted tokens**, and **role-based access control**. Features email verification, file type validation, and real-time download tracking.
+
+---
+
+### 📊 Project Management Platform
+[![Project Management](https://img.shields.io/badge/Project%20Management-Enterprise%20Ready-blue?style=for-the-badge&logo=django)](https://github.com/lakshaydahiya67/projectmanagement)
+
+*Django • WebSockets • REST API • Multi-tenancy*
+
+Trello-like project management system with **real-time collaboration**, **analytics dashboard**, **role-based permissions**, and comprehensive audit trails. Supports multi-tenant architecture with organization management.
+
+---
+
+### 📱 WhatsApp Web Clone
+[![WhatsApp Clone](https://img.shields.io/badge/WhatsApp%20Clone-Live%20App-25D366?style=for-the-badge&logo=whatsapp)](https://whats-app-web-umber.vercel.app)
+
+*FastAPI • React • MongoDB • WebSockets*
+
+Full-stack chat application with **real-time messaging**, **webhook data ingestion**, and **WhatsApp-like UI**. Features message status indicators, MongoDB Atlas integration, and responsive design.
+
+---
+
+### 🤖 Binance Trading Bot
+[![Trading Bot](https://img.shields.io/badge/Trading%20Bot-Python%20CLI-gold?style=for-the-badge&logo=bitcoin)](https://github.com/lakshaydahiya67/Binance-Futures-Orders-Bot)
+
+*Python • Binance API • Trading Algorithms • CLI*
+
+Advanced trading bot supporting **multiple order types** (Market, Limit, Stop-Limit, OCO, TWAP, Grid). Features robust error handling, JSON logging, and comprehensive input validation.
+
+---
+
+### 🛒 E-commerce with ML Recommendations
+[![E-commerce](https://img.shields.io/badge/E--commerce-ML%20Powered-purple?style=for-the-badge&logo=shopify)](https://github.com/lakshaydahiya67/ecommerce_project)
+
+*Django • Machine Learning • Cython • Content Filtering*
+
+E-commerce platform with **AI-powered product recommendations** using cosine similarity. Features **Cython optimization** for 2-5x performance improvement and user feedback learning system.
+
 </div>
 
-:fire: My Stats :
-🏆 My Projects
-I have built several full-stack applications and tools. Here are a few highlights:
+<br>
 
-Project
+## 🛠️ Technology Stack
 
-Description
+<div align="center">
 
-Technologies Used
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Project Management App
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-A Trello/Asana-like platform with real-time collaboration, Kanban boards, multi-tenancy, analytics, and role-based access.
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-Django, DRF, WebSockets, JWT, Docker, PostgreSQL
+### AI & Machine Learning
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-SecureShare
+</div>
 
-An AI-powered secure file sharing platform featuring encrypted transfers, single-use download links, and role-based access control.
+<br>
 
-Django, DRF, Gemini AI, Cryptography, PostgreSQL
+## 📈 GitHub Analytics
 
-Binance Trading Bot
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshaydahiya67&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaydahiya67&layout=compact&langs_count=7&theme=tokyonight"/>
 
-A CLI-based trading bot for Binance Futures supporting Market, Limit, OCO, TWAP, and Grid orders with robust logging.
+</div>
 
-Python, Binance API, WebSockets
+<div align="center">
 
-Blood Bank Management
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lakshaydahiya67&theme=tokyonight)](https://git.io/streak-stats)
 
-A comprehensive system with distinct Admin, Donor, and Patient roles for managing blood stock, donations, and requests.
+</div>
 
-Django, Bootstrap, Gunicorn, Render
+<br>
 
+## 🏆 Key Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lakshaydahiya67&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### 🎯 What Sets Me Apart
+
+- **🔐 Security Expertise**: Implemented encryption, JWT authentication, and secure file handling across multiple projects
+- **🤖 AI Integration**: Successfully integrated Google Gemini for document analysis and built ML recommendation systems
+- **📊 Performance Optimization**: Achieved 2-5x performance improvements using Cython and efficient algorithms
+- **🌐 Full-Stack Deployment**: Experience with Docker, CI/CD, and cloud platforms (Render, Vercel)
+- **💼 Real-World Applications**: Built production-ready applications for file sharing, project management, and trading
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-eta-ivory-dsklj1qc6q.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshaydahiya67)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshaydahiya67@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshaydahiya67)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building the future, one secure and intelligent application at a time"
+
+![Profile Views](https://komarev.com/ghpvc/?username=lakshaydahiya67&color=blueviolet&style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
+
+</div>
